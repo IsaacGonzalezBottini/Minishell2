@@ -7,7 +7,7 @@
 
 CC    =    gcc
 
-SRC     =	lib/my_str_to_word_array.c \
+SRC     =	lib/my_str_to_word_array.c \qsdfqdsf
 			lib/my_strcat.c \
 			lib/my_strlen.c \
 			lib/my_str_isalpha.c \
