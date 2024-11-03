@@ -13,7 +13,7 @@ SRC     =	lib/my_str_to_word_array.c \
 			lib/my_str_isalpha.c \
 			lib/my_str_isnum.c \
 			lib/my_strcpy.c \qfd
-			lib/separate_on_char.c \
+			lib/separate_on_char.c \qdsfqfsd
 			src/env.c \
 			src/execute.c \
 			src/builtin_command.c \
