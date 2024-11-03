@@ -14,7 +14,7 @@ SRC     =	lib/my_str_to_word_array.c \
 			lib/my_str_isnum.c \
 			lib/my_strcpy.c \qfd
 			lib/separate_on_char.c \qdsfqfsd
-			src/env.c \
+			src/env.c \fqdfqd
 			src/execute.c \
 			src/builtin_command.c \
 			src/redirection.c \
