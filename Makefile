@@ -11,7 +11,7 @@ SRC     =	lib/my_str_to_word_array.c \
 			lib/my_strcat.c \
 			lib/my_strlen.c \
 			lib/my_str_isalpha.c \
-			lib/my_str_isnum.c \
+			lib/my_str_isnum.c \aze
 			lib/my_strcpy.c \qfd
 			lib/separate_on_char.c \qdsfqfsd
 			src/env.c \fqdfqd
