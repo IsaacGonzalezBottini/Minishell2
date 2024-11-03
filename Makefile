@@ -48,3 +48,6 @@ re:    clean all
 debug:	$(OBJ)
 	$(CC) -o $(NAME) $(OBJ) $(CPPFLAGS) -g3
 	valgrind ./$(NAME)
+
+
+
